@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>10.12.6</key>
+	<true/>
 	<key>10.14.0</key>
 	<true/>
 	<key>10.14.1</key>
