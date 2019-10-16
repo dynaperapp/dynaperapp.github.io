@@ -15,8 +15,10 @@
 	<key>10.14.4</key>
 	<true/>
 	<key>10.14.5</key>
-	<false/>
+	<true/>
 	<key>10.14.6</key>
-	<false/>
+	<true/>
+	<key>10.15</key>
+	<true/>
 </dict>
 </plist>
