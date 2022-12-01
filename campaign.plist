@@ -4,35 +4,41 @@
 <dict>
 	<key>10.12.6</key>
 	<false/>
-	<key>10.14.0</key>
-	<true/>
-	<key>10.14.1</key>
-	<true/>
-	<key>10.14.2</key>
-	<true/>
-	<key>10.14.3</key>
-	<true/>
-	<key>10.14.4</key>
-	<true/>
-	<key>10.14.5</key>
+	<key>10.13.6</key>
 	<true/>
 	<key>10.14.6</key>
-	<true/>
-	<key>10.15.0</key>
-	<true/>
-	<key>10.15.1</key>
-	<true/>
-	<key>10.15.2</key>
-	<true/>
-	<key>10.15.3</key>
-	<true/>
-	<key>10.15.4</key>
-	<true/>
-	<key>10.15.5</key>
 	<true/>
 	<key>10.15.6</key>
 	<true/>
 	<key>10.15.7</key>
+	<true/>
+	<key>11.6.2</key>
+	<true/>
+	<key>11.6.3</key>
+	<true/>
+	<key>11.6.4</key>
+	<true/>
+	<key>11.6.5</key>
+	<true/>
+	<key>11.6.6</key>
+	<true/>
+	<key>11.6.7</key>
+	<true/>
+	<key>11.6.8</key>
+	<true/>
+	<key>11.7</key>
+	<true/>
+	<key>11.7.1</key>
+	<true/>
+	<key>12.4</key>
+	<true/>
+	<key>12.5</key>
+	<true/>
+	<key>12.5.1</key>
+	<true/>
+	<key>12.6</key>
+	<true/>
+	<key>12.6.1</key>
 	<true/>
 </dict>
 </plist>
