@@ -43,20 +43,20 @@
 	<key>12.6.1</key>
 	<true/>
 	<key>12.6.2</key>
-	<false/>
+	<true/>
 	<key>12.7.0</key>
-	<false/>
+	<true/>
 	<key>12.7.1</key>
-	<false/>
+	<true/>
 	<key>12.7.2</key>
-	<false/>
+	<true/>
 	<key>13.0.0</key>
-	<false/>
+	<true/>
 	<key>13.0.1</key>
-	<false/>
+	<true/>
 	<key>13.1.0</key>
-	<false/>
+	<true/>
 	<key>13.1.1</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
